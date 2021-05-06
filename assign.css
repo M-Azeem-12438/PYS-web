@@ -1,0 +1,17 @@
+.a{
+    list-style-type: lower-alpha;
+}
+#b{
+    list-style-type: circle;
+}
+#c
+{
+    list-style-type: upper-alpha
+}
+.table{ padding-left: 10px;
+    padding-right: 10px;
+    
+border-style: solid;
+border-color:black;
+border-collapse: collapse;
+    }
